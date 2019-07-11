@@ -1,0 +1,10 @@
+NLP - Natural Language Processing - Text Processing
+nltk - natural language toolkit
+
+5 steps to follow:
+
+1.Tokenization - nltk.tokenize - word_tokenize , sent_tokenize
+2.Removing Stopwords - nltk.corpus - stopwords
+3.Stemming and Lemmatization - nltk.stem - PorterStemmer,WordNetLemmatizer
+4.Vectorization - sklearn.feature_extraction.text - CountVectorizer,TfidVectorizer
+5.TF-IDF Transformation - sklearn.feature_extraction.text - TfidfTransformer
